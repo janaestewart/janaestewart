@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Node and React!  
   
 
-- 💻 I’m currently working as a Software Developer at 100Devs  
+- 💻 I’m currently working as a Software Engineer at 100Devs  
   
 
 - 🤖 Visit my [Portfolio](https://jas-portfolio.netlify.app/)  
